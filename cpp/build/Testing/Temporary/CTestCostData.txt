@@ -1,0 +1,119 @@
+Part1.numberOfVideos 2 0.00644687
+Part1.showAllVideos 1 0.0123449
+Part1.playVideo 1 0.019705
+Part1.playVideoNonExistent 1 0.0239631
+Part1.playVideoStopPrevious 1 0.00950037
+Part1.playVideoDontStopPreviousIfNonExistent 1 0.0121474
+Part1.stopVideo 1 0.00790253
+Part1.stopVideoTwice 1 0.0077817
+Part1.stopVideoNothingPlaying 1 0.00724083
+Part1.playRandomVideo 1 0.00560756
+Part1.playRandomVideoStopsPreviousVideo 1 0.00700367
+Part1.showPlaying 1 0.00613488
+Part1.showNothingPlaying 1 0.00570028
+Part1.pauseVideo 1 0.00740256
+Part1.pauseVideoShowVideo 1 0.00957639
+Part1.pauseVideoPlayVideo 1 0.00824307
+Part1.pauseAlreadyPausedVideo 1 0.007639
+Part1.pauseVideoNothingPlaying 1 0.00584824
+Part1.continueVideo 1 0.00816411
+Part1.continueVideoNotPaused 1 0.0130996
+Part1.continueVideoNothingPlaying 1 0.00581492
+Part2.createPlaylist 0 0
+Part2.createExistingPlaylist 0 0
+Part2.addToPlaylist 0 0
+Part2.addToPlaylistAlreadyAdded 0 0
+Part2.addVideoToPlaylistNonExistentVideo 0 0
+Part2.addVideoToPlaylistNonExistent 0 0
+Part2.addVideoToPlaylistNonExistentNoPlaylistNoVideo 0 0
+Part2.showAllPlaylistsNoPlaylistsExist 0 0
+Part2.showAllPlaylist 0 0
+Part2.showPlaylist 0 0
+Part2.showPlaylistAfterRemoveAVideoFromPlaylistThenReAdd 0 0
+Part2.showPlaylistNonExistent 0 0
+Part2.removeFromPlaylist 0 0
+Part2.removeFromPlaylistVideoNotInPlaylist 0 0
+Part2.removeFromPlaylistNonexistentVideo 0 0
+Part2.removeFromPlaylistNonexistentPlaylist 0 0
+Part2.clearPlaylist 0 0
+Part2.clearPlaylistNonexistent 0 0
+Part2.deletePlaylist 0 0
+Part2.deletePlaylistNonexistent 0 0
+Part3.searchVideosWithNoAnswer 0 0
+Part3.searchVideosAndPlayAnswer 0 0
+Part3.searchVideosAnswerOutOfBounds 0 0
+Part3.searchVideosInvalidNumber 0 0
+Part3.searchVideosNoResults 0 0
+Part3.searchVideosWithTagNoAnswer 0 0
+Part3.searchVideosWithTagPlayAnswer 0 0
+Part3.searchVideosWithTagAnswerOutOfBounds 0 0
+Part3.searchVideosWithTagNoResults 0 0
+Part4.flagVideoWithReason 0 0
+Part4.flagVideoWithoutReason 0 0
+Part4.flagVideoAlreadyFlagged 0 0
+Part4.flagVideoNonexistent 0 0
+Part4.flagVideoCanNoLongerPlay 0 0
+Part4.flagVideosPlayRandom 0 0
+Part4.flagVideoAddVideoToPlaylist 0 0
+Part4.flagVideoShowPlaylist 0 0
+Part4.flagVideoShowAllVideos 0 0
+Part4.flagVideoSearchVideos 0 0
+Part4.flagVideoSearchVideosWithTag 0 0
+Part4.flagVideoStopPlayingVideo 0 0
+Part4.flagVideoStopPausedVideo 0 0
+Part4.flagVideoKeepVideoPlayingIfDifferentFromFlaggedVideo 0 0
+Part4.allowVideo 0 0
+Part4.allowVideoNotFlagged 0 0
+Part4.allowVideoNonexistent 0 0
+Part4.allowVideoShowPlaylist 0 0
+VideoLibrary.VideoLibraryHasAllVideos 2 0.043647
+VideoLibrary.VideoLibraryParsesTagsCorrectly 2 0.00340955
+VideoLibrary.testLibraryParsesVideoCorrectlyWithoutTags 2 0.00252835
+---
+Part2.createPlaylist
+Part2.createExistingPlaylist
+Part2.addToPlaylist
+Part2.addToPlaylistAlreadyAdded
+Part2.addVideoToPlaylistNonExistentVideo
+Part2.addVideoToPlaylistNonExistent
+Part2.addVideoToPlaylistNonExistentNoPlaylistNoVideo
+Part2.showAllPlaylistsNoPlaylistsExist
+Part2.showAllPlaylist
+Part2.showPlaylist
+Part2.showPlaylistAfterRemoveAVideoFromPlaylistThenReAdd
+Part2.showPlaylistNonExistent
+Part2.removeFromPlaylist
+Part2.removeFromPlaylistVideoNotInPlaylist
+Part2.removeFromPlaylistNonexistentVideo
+Part2.removeFromPlaylistNonexistentPlaylist
+Part2.clearPlaylist
+Part2.clearPlaylistNonexistent
+Part2.deletePlaylist
+Part2.deletePlaylistNonexistent
+Part3.searchVideosWithNoAnswer
+Part3.searchVideosAndPlayAnswer
+Part3.searchVideosAnswerOutOfBounds
+Part3.searchVideosInvalidNumber
+Part3.searchVideosNoResults
+Part3.searchVideosWithTagNoAnswer
+Part3.searchVideosWithTagPlayAnswer
+Part3.searchVideosWithTagAnswerOutOfBounds
+Part3.searchVideosWithTagNoResults
+Part4.flagVideoWithReason
+Part4.flagVideoWithoutReason
+Part4.flagVideoAlreadyFlagged
+Part4.flagVideoNonexistent
+Part4.flagVideoCanNoLongerPlay
+Part4.flagVideosPlayRandom
+Part4.flagVideoAddVideoToPlaylist
+Part4.flagVideoShowPlaylist
+Part4.flagVideoShowAllVideos
+Part4.flagVideoSearchVideos
+Part4.flagVideoSearchVideosWithTag
+Part4.flagVideoStopPlayingVideo
+Part4.flagVideoStopPausedVideo
+Part4.flagVideoKeepVideoPlayingIfDifferentFromFlaggedVideo
+Part4.allowVideo
+Part4.allowVideoNotFlagged
+Part4.allowVideoNonexistent
+Part4.allowVideoShowPlaylist

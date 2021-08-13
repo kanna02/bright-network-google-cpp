@@ -1,0 +1,5 @@
+if(EXISTS "/Users/me/Desktop/google/google-code-sample/cpp/build/part1_test[1]_tests.cmake")
+  include("/Users/me/Desktop/google/google-code-sample/cpp/build/part1_test[1]_tests.cmake")
+else()
+  add_test(part1_test_NOT_BUILT part1_test_NOT_BUILT)
+endif()

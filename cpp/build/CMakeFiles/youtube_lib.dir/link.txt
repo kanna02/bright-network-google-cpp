@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libyoutube_lib.a CMakeFiles/youtube_lib.dir/src/commandparser.cpp.o CMakeFiles/youtube_lib.dir/src/helper.cpp.o CMakeFiles/youtube_lib.dir/src/video.cpp.o CMakeFiles/youtube_lib.dir/src/videolibrary.cpp.o CMakeFiles/youtube_lib.dir/src/videoplayer.cpp.o CMakeFiles/youtube_lib.dir/src/videoplaylist.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libyoutube_lib.a
